@@ -1,0 +1,205 @@
+.first {
+    /* background-image: linear-gradient(rgba(224, 22, 22, 0.623),rgba(0,0,0,0.5) ),
+     url(images/sandwich.jpg); */
+     background-image: url(images/sandwich.jpg);
+     height: 100vh;
+     width: 100%;
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+     /* border: 2px solid transparent; */
+     border: none;
+     margin: 0px;
+     color: whitesmoke;
+     font-family: 'Pacifico', cursive;
+     
+     /* background-attachment: fixed; */
+     
+}
+.second {
+    /* background-image: linear-gradient(rgba(224, 22, 22, 0.3),rgba(0,0,0,0.5) ), */
+     background-image:  url(images/burger.jpg);
+     /* background: url(images/burger.jpg); */
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: whitesmoke;
+     font-family: 'Pacifico', cursive;
+     
+     
+     /* background-attachment: fixed; */
+     
+}
+.third {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(224, 22, 22, 0.623)), */
+    background-image:  url(images/pasta.jpg);
+     height: 100vh;
+     /* max-height: 400px; */
+     width: 100%;
+     /* max-width: 40%; */
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+     border: 2px solid black;
+     margin: 0px;
+     color: wheat;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
+.fourth {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(224, 22, 22, 0.623)), */
+    background-image: 
+     url(images/noodles.jpg);
+     height: 100vh;
+     width: 100%;
+     font-weight: bolder;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: black;
+     font-family: 'Francois One', sans-serif;
+     /* font-family: 'Pacifico', cursive; */
+     /* background-attachment: fixed; */
+     
+}
+.fifth {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(224, 22, 22, 0.623)), */
+    background-image: 
+     url(images/spring-potato.jpg);
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: wheat;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
+.pizza {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(224, 22, 22, 0.623)), */
+    background-image: 
+     url(images/pizza.png);
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: black;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
+.chai {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(147, 255, 5, 0.616)),
+     url(images/chai.jpg); */
+     background-image: url(images/chai.jpg);
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: wheat;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
+.lemon-tea {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(147, 255, 5, 0.616)),
+     url(images/chai.jpg); */
+     background-image: url(images/lemon-tea.jpg);
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: wheat;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
+.coffee {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(147, 255, 5, 0.616)),
+     url(images/chai.jpg); */
+     background-image: url(images/coffee.jpg);
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: wheat;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
+.lassi {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(147, 255, 5, 0.616)),
+     url(images/chai.jpg); */
+     background-image: url(images/lassi.jpg);
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: wheat;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
+.shakes {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(147, 255, 5, 0.616)),
+     url(images/chai.jpg); */
+     background-image: url(images/milk-shake.jpg);
+     height: 100vh;
+     width: 100%;
+     
+     text-align: center;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     border: 2px solid black;
+     margin: 0px;
+     color: wheat;
+     font-family: 'Pacifico', cursive;
+     /* background-attachment: fixed; */
+     
+}
