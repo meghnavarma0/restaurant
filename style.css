@@ -5,6 +5,7 @@ background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, F
 font-family: 'Pacifico', cursive;
 
 
+
 }
 
 ul {
@@ -32,4 +33,9 @@ li {
 
 .row {
     margin-top: 5px;;
+}
+
+.tag-line {
+    font-size: 1.6rem;
+    margin-bottom: 3px;
 }
