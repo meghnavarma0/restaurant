@@ -39,3 +39,7 @@ li {
     font-size: 1.6rem;
     margin-bottom: 3px;
 }
+
+a.navbar-brand {
+    font-size: 1.6rem;
+}
