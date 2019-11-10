@@ -40,3 +40,14 @@ li {
     margin-bottom: 3px;
 }
 
+a {
+    color: wheat;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    color: wheat;
+    text-decoration: none;
+}
+
