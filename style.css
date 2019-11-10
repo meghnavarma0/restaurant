@@ -27,7 +27,10 @@ li {
 
 .container{
     position: fixed;
-    bottom: 0px;
+    /* bottom: 0px; */
+    height: 40vh;
+    bottom: 30px;
+    
 
 }
 
@@ -38,6 +41,8 @@ li {
 .tag-line {
     font-size: 1.25rem;
     margin-bottom: 3px;
+    position: fixed;
+    bottom: 0px;
 }
 
 a {
